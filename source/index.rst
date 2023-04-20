@@ -7,6 +7,7 @@ Welcome to Temat1's documentation!
 ==================================
 
 .. toctree::
+   wstep
    :maxdepth: 2
    :caption: Contents:
 
