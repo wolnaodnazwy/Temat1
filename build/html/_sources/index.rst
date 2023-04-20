@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Temat1's documentation!
+Sprzet dla bazy danych
 ==================================
 
 .. toctree::
    wstep
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
 
